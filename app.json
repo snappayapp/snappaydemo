@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SnappayFrDemo",
-    "slug": "SnappayFrDemo",
+    "name": "snappaydemo",
+    "slug": "snappaydemo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,7 +29,7 @@
       "permissions": [
         "android.permission.RECORD_AUDIO"
       ],
-      "package": "com.weevil_1.snappaymerchantapp"
+      "package": "com.snappay.snappaymerchantapp"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
@@ -55,7 +55,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "8a477309-a945-4a09-bdb9-fadbcef8b28d"
+        "projectId": "3a57e1f1-b32b-46d7-b25b-dae7fedf96a1"
       }
     }
   }
